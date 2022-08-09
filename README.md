@@ -108,7 +108,7 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/cycle_summary_execution.pdf)
+* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/test_cases.pdf)
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/Final%20Project/linguages%20bugs%20pdf.pdf)
     
   * 'Competency' drop-down contains other values.
