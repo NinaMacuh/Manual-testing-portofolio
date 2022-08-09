@@ -94,7 +94,7 @@ are:
 ![image](https://user-images.githubusercontent.com/106865774/171997028-ff444a8a-9dbe-4d27-a897-a9cf67c7f26d.png)
 
 
-The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/Final%20Project/test_cases.pdf)
+The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/test_cases.pdf)
 
 ## 1.5 Test Implementation
 
