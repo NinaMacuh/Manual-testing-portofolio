@@ -132,4 +132,4 @@ The following elements are needed to be ready before the test execution phase be
 
 
 # 2 SQL section
-Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [languages_sql.sql](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/Final%20Project/languages_sql.sql)
+Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [languages_sql.sql](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/languages_sql.sql)
