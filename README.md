@@ -121,7 +121,7 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/Traceability%20_matrix..xlsx)
+* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/Traceability%20_matrix..xlsx)
 * Test execution chart was generated, the final report shows a number 4 tests have failed of a total 20
 * A number of 20 test cases were planned for execution and all of them were executed
 * A number of 4 total bugs were found, from which the priority is: 1 is high, 2 are medium and 1 is highest
